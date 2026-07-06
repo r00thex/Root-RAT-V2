@@ -1,1 +1,83 @@
-# Root-RAT-V2
+# Root RAT V2 🎩
+**Root RAT is a Discord-based Remote Administration Tool (RAT)**
+- **version 2.0 ✅**
+<img width="1223" height="838" alt="image" src="https://github.com/user-attachments/assets/e4f75acf-d732-4e40-bb5c-99d7255010df" />
+<img width="1073" height="721" alt="image" src="https://github.com/user-attachments/assets/03982e49-9920-43c3-a91e-e584ec49d684" />
+
+
+
+
+https://github.com/user-attachments/assets/a443da94-2b29-4ab9-a67a-8ac27ad390c1
+
+
+
+
+
+# Root RAT - Helps 🎩 
+```
+Root RAT V2 commands line:
+
+System Access:
+
+!startup               : Add autostart
+!execute <commands>    : Run shell command
+!cd <directory>        : Change directory
+!process               : List running processes
+!processkill <pid>     : Kill a process by PID
+!shutdown              : Shutdown the system
+!restart               : Restart the system
+!download <filename>   : Download file 
+!upload                : Upload file
+!keylog                : Start Keylogger (NEW!)
+!stoplog               : Stop Keylogger  (NEW!)
+
+System Information:
+!ip                    : Get public IP info
+!sysinfo               : Get system info
+
+Troll Access:
+
+!open <link>           : Open a web browser
+!bsod                  : Trigger bluescreen
+!msgbox <title> <text> : Show message box
+!textspech <text>      : text to speech
+!wallpaper             : Set wallpaper attach image
+!forkbomb              : Rabbit Virus
+
+Device Access:
+
+!screenshot            : Take a screenshot
+!webcam                : Capture webcam image
+
+Credential Dump:
+
+!password              : Dump saved passwords
+!autofill              : Dump saved autofill data
+```
+
+# Disclaimer 🚫 
+**This project is created solely for educational and research purposes. The developer does not promote or condone the use of this tool for unauthorized access, data theft, or any malicious activities. Using this software against systems you do not own or have explicit permission to test may be illegal and is strictly discouraged.** 
+
+# HOW TO USE ❓
+```
+git clone https://github.com/cybermads/Root-RAT.git
+```
+```
+cd Root-RAT
+```
+```
+ls
+```
+```
+pip install -r requirements.txt
+```
+```
+python Root.py
+```
+
+
+## WINDOWS ✅
+## LINUX ✅ 
+
+# About 🤑
+**We greatly appreciate your feedback and suggestions. Please feel free to share any thoughts you may have; your input is invaluable to us!**
