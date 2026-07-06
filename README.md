@@ -1,17 +1,6 @@
 # Root RAT V2 🎩
 **Root RAT is a Discord-based Remote Administration Tool (RAT)**
-- **version 2.0 ✅**
-<img width="1223" height="838" alt="image" src="https://github.com/user-attachments/assets/e4f75acf-d732-4e40-bb5c-99d7255010df" />
-<img width="1073" height="721" alt="image" src="https://github.com/user-attachments/assets/03982e49-9920-43c3-a91e-e584ec49d684" />
-
-
-
-
-https://github.com/user-attachments/assets/a443da94-2b29-4ab9-a67a-8ac27ad390c1
-
-
-
-
+- **version 2.0 ✅ *
 
 # Root RAT - Helps 🎩 
 ```
